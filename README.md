@@ -6,6 +6,8 @@ The code defines various functions to manage the various phases of the game, suc
 
 The Choice_Player() function asks the user to enter the desired position for his move using numpad numbers. The PC_Choice() function uses logic to decide the best position for the AI to move. Both functions use the Board() function to print the current game board to the screen.
 
+
+
 IT:
 Il gioco consiste in una griglia 3x3 in cui due giocatori (il primo giocatore è il giocatore umano, il secondo è il computer) si sfidano a turno per riempire le caselle con i loro simboli ("X" o "O").
 
